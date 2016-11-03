@@ -13,7 +13,7 @@ There are currently two JSON files with all Namedays in place.
 In this file you can find all namedays with fixed date.
 
 ### Easter Related Namedays [(relative_to_easter.json)](https://github.com/alexstyl/Greek-namedays/blob/master/relative_to_easter.json)
-- This file contains all namedays assosiated to easter. You need to calculate Easter Sunday first before finding the exact nameday of a specific year for those.
+This file contains all namedays assosiated to easter. You need to calculate Easter Sunday first before finding the exact nameday of a specific year for those.
 
 ### Calculating Easter
 Greeks celebrate the Orthodox Easter. You can find [a Java implementation](https://github.com/alexstyl/Greek-namedays/blob/master/OrthodoxEasterCalculator.java) of how to calculate the Easter Sunday, but you can find a lot of ways of calculating by yourself online ([such as on Wikipedia](https://en.wikipedia.org/wiki/Computus#Gauss_algorithm)).
